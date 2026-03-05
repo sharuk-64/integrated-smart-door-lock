@@ -153,15 +153,11 @@ KnoxKey represents a transition from **academic prototyping to product-level emb
 
 ---
 
-## 👤 Author
-
+## Project mates
 **Shadhurshan Navaretnam**
 Electrical & Electronics Engineering Undergraduate
 University of Peradeniya, Sri Lanka
 
----
-
-## Project mates
 **Shajugan Kulashankar**
 Electrical & Electronics Engineering Undergraduate
 University of Peradeniya, Sri Lanka
